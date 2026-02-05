@@ -1,4 +1,4 @@
-package com.developsaas.nadinor.app;
+package com.appstechnology.calculatorcute.app;
 
 import static org.junit.Assert.*;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.developsaas.nadinor.app", appContext.getPackageName());
+        assertEquals("com.appstechnology.calculatorcute.app", appContext.getPackageName());
     }
 }

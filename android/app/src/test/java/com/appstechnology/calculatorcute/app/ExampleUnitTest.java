@@ -1,4 +1,4 @@
-package com.developsaas.nadinor.app;
+package com.appstechnology.calculatorcute.app;
 
 import static org.junit.Assert.*;
 
