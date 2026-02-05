@@ -1,4 +1,4 @@
-package com.appstechnology.calculatorcute.app;
+package com.appstechnology.app;
 
 import android.os.Bundle;
 import com.getcapacitor.BridgeActivity;

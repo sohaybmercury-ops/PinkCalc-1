@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 // Configuration for completely offline/local app
 const config: CapacitorConfig = {
-  appId: 'com.appstechnology.calculatorcute',
+  appId: 'com.appstechnology.app',
   appName: 'Calculator Cute',
   webDir: 'dist/public',
   server: {

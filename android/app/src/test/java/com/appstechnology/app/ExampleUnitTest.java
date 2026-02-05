@@ -1,4 +1,4 @@
-package com.appstechnology.calculatorcute.app;
+package com.appstechnology.app;
 
 import static org.junit.Assert.*;
 
